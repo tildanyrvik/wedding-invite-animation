@@ -7,3 +7,45 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.names {
+    font-family: "Parisienne", cursive;
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+
+.h1 {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 27px;
+    letter-spacing: 2px;
+}
+
+.paragraph {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+.h3 {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.h5 {
+    font-family: "Nanum Myeongjo", serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+
+.invite-card {
+    width: 500px;
+    height: 800px;
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+
+}
